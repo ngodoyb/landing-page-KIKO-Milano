@@ -3,9 +3,9 @@ El objetivo de este sitio web es presentar el nuevo kit de glosses de la marca d
 
 ## Colores de la marca
 Colores de la marca KIKO MILANO
-- #000000
-- #ffffff
-- #ff6f7f
+- #000000 negro
+- #ffffff blanco
+- #ffc5d3 rosa pastel
 
 ## Tipografía
 La marca KIKO MILANO usa una tipografía propia pero para la landing page usare la tipografía Lexend diseñada por Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion

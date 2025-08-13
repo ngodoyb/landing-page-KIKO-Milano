@@ -1,17 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+:root{
+    /*Colores de la marca KIKO MILANO*/
+    --negro: #000000;
+    --blanco: #ffffff;
+    --rosapastel: #ffc5d3;
+}
 
 body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Lexend", sans-serif;
+    background-color: var(--blanco);
 }
 
 h1{
-    background-color: #ff6f7f;
+    background-color: #ffc5d3;
     color:black ;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: "Lexend", sans-serif;
     padding: 20px;
+    
 }
 
+.logokiko{
+    width: 100%;
+    text-align: center;
+}
 
 p.intro{
     font-size: 3rem;
-    color: 
+    color: #ffc5d3;
+    
 }
