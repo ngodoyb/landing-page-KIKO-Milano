@@ -1,17 +1,17 @@
-# Landing page KIKO Milano
-El objetivo de este sitio web es presentar el nuevo kit de glosses de la marca de maquillaje KIKO Milano
+# Landing page KIKO MILANO
+El objetivo de este sitio web es presentar el nuevo kit de glosses de la marca de maquillaje KIKO MILANO
 
 ## Colores de la marca
-Colores de la marca KIKO Milano
+Colores de la marca KIKO MILANO
 - #000000
 - #ffffff
 - #ff6f7f
 
 ## Tipografía
-La marca KIKO Milano usa una tipografía propia pero para la landing page usare la tipografía Lexend diseñada por Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion
+La marca KIKO MILANO usa una tipografía propia pero para la landing page usare la tipografía Lexend diseñada por Bonnie Shaver-Troup, Thomas Jockin, Santiago Orozco, Héctor Gómez, Superunion
 
 ## Propósito (metodología de historia de usuario)
-Quién: Mujeres entre los 18 y 35 años 
+Quién: Mujeres entre los 18 y 30 años 
 
 Qué necesita: Muchas veces se desea comprar varios tonos de gloss para diferentes ocasiones, pero comprarlos individualmente es costoso
 
