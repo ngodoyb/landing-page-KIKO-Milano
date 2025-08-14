@@ -17,6 +17,7 @@ h1{
     color:black ;
     font-family: "Lexend", sans-serif;
     padding: 20px;
+    font-size: 25px;
     
 }
 
@@ -27,6 +28,6 @@ h1{
 
 p.intro{
     font-size: 3rem;
-    color: #ffc5d3;
+    color: #000000;
     
 }
