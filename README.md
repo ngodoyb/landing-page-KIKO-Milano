@@ -1,5 +1,5 @@
 # Landing page KIKO MILANO
-El objetivo de este sitio web es presentar el nuevo kit de glosses de la marca de maquillaje KIKO MILANO
+El objetivo de este sitio web es presentar el nuevo kit de glosses de referencia 3D Hydra Lipgloss de la marca de maquillaje KIKO MILANO
 
 ## Colores de la marca
 Colores de la marca KIKO MILANO

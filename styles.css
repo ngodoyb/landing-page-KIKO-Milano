@@ -16,8 +16,9 @@ h1{
     background-color: #ffc5d3;
     color:black ;
     font-family: "Lexend", sans-serif;
-    padding: 20px;
-    font-size: 25px;
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
     
 }
 
@@ -25,9 +26,33 @@ h1{
     width: 100%;
     text-align: center;
 }
+.logokiko:hover{
+    animation: mianimacion 2s;
+}
+
+@keyframes mianimacion {
+    from{
+        transform: scale(1);
+    }
+
+    to{
+        transform: scale(1.5);
+    }
+    
+}
 
 p.intro{
     font-size: 3rem;
     color: #000000;
+    font-size: 25px;
+    text-align: center;
     
+}
+
+p.dentro-de-subtitulo{
+    font-size: 3rem;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+
 }
